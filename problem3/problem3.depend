@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1443018091 source:f:\study\code\c\euler\problem3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
